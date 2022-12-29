@@ -12,7 +12,7 @@
   "CleanupOnCancel": true,
   "WriteToLog": false,
   "Parameters": {
-    "APIKEY_Google": "AIzaSyDIdw9gK0xcmjCzJYW4spWtafTm8FUo520",
+    "APIKEY_Google": "",
     "int": 10,
     "double": 20.5,
     "string": "twenty"
