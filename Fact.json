@@ -1,0 +1,20 @@
+{
+  "Name": "Fact",
+  "UniqueId": "9debcb21-8f36-4045-a25a-a3f487994386",
+  "Description": "My skill is amazing!",
+  "StartupRules": [
+    "Manual",
+    "Robot"
+  ],
+  "Language": "javascript",
+  "BroadcastMode": "verbose",
+  "TimeoutInSeconds": 600,
+  "CleanupOnCancel": true,
+  "WriteToLog": false,
+  "Parameters": {
+    "APIKEY_Google": "AIzaSyDIdw9gK0xcmjCzJYW4spWtafTm8FUo520",
+    "int": 10,
+    "double": 20.5,
+    "string": "twenty"
+  }
+}
